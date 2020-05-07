@@ -33,7 +33,7 @@ Work on these should closely involve the working groups listed.
 
 `[ ]` With Compiler, provide a method to define new targets which may not necessarily be supported by llvm. 
 
-`[ ]` With Lang Design and Compiler, provide language features which can enable optimizations without compremising usability. 
+`[ ]` With Game Development and Lang Design, provide language features which can enable optimizations without compremising usability. The Compiler Working Group may also comment on papers for this goal
 
 ## Other Goals
 
