@@ -11,7 +11,7 @@ Papers which complete or advance any of these goals should target the Embedded W
 * Polymorphic/Dynamic Dispatch
 
 `[ ]` Provide methods of compiling and linking to embedded/freestanding environments, including for os dev
-* Split Standard library into various parts which may be provided where the requisite features are available (core, alloc, crypto, std for example)
+* Split Standard library into various parts which may be provided where the requisite features are available (core, alloc, crypto, std for example) (with Library Design Working Group)
 * Provide a method of disabling part of the standard library, and enabling the parts which can be provided
 
 `[ ]` Make Porting the laser language to a new environment, freestanding or hosted, a trivial matter
