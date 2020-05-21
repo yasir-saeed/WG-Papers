@@ -4,7 +4,8 @@
 
 Papers which complete or advance any of these goals should target the Embedded Working Group.
 
-`[ ]` Improve language and library features so that they are usable in Space or time constrained environements. 
+`[ ]` Improve language and library features so that they are usable in Space or time
+constrained environments. 
 * Exception Unwinding 
 * Allocating Types, where available
 * Crypto API, where available
@@ -18,11 +19,11 @@ Papers which complete or advance any of these goals should target the Embedded W
 * Reduce architecture specific code and types written in the standard library
 * Provide easy methods to select (and add selections for) architecture specific code and types where necessary
 * Reduce or eliminate architecture specific code in the laser language compiler, including the bootstrap compiler
-* Work with the Compiler Working Group to maintain the Bootstrap Compiler so it may be used in the process of porting to a new archtecture or os.
+* Work with the Compiler Working Group to maintain the Bootstrap Compiler so it may be used in the process of porting to a new architecture or os.
 
 `[ ]` Improve Interaction with the Embedded Domain Experts in Other languages
 
-## Collaberative Goals
+## Collaborative Goals
 
 Papers which complete or advance any of these goals should target the Embedded Working Group, as well as the other Working Groups mentioned for these goals. 
 Work on these should closely involve the working groups listed. 
@@ -33,7 +34,7 @@ Work on these should closely involve the working groups listed.
 
 `[ ]` With Compiler, provide a method to define new targets which may not necessarily be supported by llvm. 
 
-`[ ]` With Game Development and Lang Design, provide language features which can enable optimizations without compremising usability. The Compiler Working Group may also comment on papers for this goal
+`[ ]` With Game Development and Lang Design, provide language features which can enable optimizations without compromising usability. The Compiler Working Group may also comment on papers for this goal
 
 ## Other Goals
 
